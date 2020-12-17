@@ -1,2 +1,2 @@
-# karan-malik.github.io
-My personal portfolio website
+# My personal portfolio website
+### Visit [Website](https://karan-malik.github.io)
