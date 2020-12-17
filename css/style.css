@@ -553,7 +553,8 @@ a {
     display: block; }
 
 .site-footer {
-  padding: 3em 0; }
+  padding: 3em 0; 
+  background-color: #99ff99;}
   .site-footer p:last-child {
     margin-bottom: 0; }
   .site-footer .social-item {
